@@ -18,3 +18,10 @@ C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\refint\Aura.dll
 C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\Aura.pdb
 C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\Aura.genruntimeconfig.cache
 C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\ref\Aura.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\bin\Debug\net7.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\Aura.csproj.AssemblyReference.cache
+C:\Users\maksi\RiderProjects\Aura\Aura\obj\Debug\net7.0-windows\Aura.csproj.CopyComplete

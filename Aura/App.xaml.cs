@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using Microsoft.WindowsAPICodePack;
 
 namespace Aura
 {
@@ -13,5 +14,9 @@ namespace Aura
     /// </summary>
     public partial class App : Application
     {
+        public App()
+        {
+            
+        }
     }
 }
